@@ -1,12 +1,11 @@
-
-<h1 align="center">👋 Hey, I'm Mohamed!</h1>
+# 👋 Hey, I'm Mohamed!
 
 <h3 align="center">
   💻 Full Stack Developer | Software Development Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Angular+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Vue.js;NestJS+%7C+Node.js+%7C+Angular;Flutter+Mobile+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,8 +17,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Software Development Student (DSI) at ISET
-- 💻 Interested in Full Stack Web Development
-- 🌱 Currently improving my skills in Angular, Node.js and Spring Boot
+- 💻 Interested in Full Stack Web & Mobile Development
+- 🌱 Exploring modern frontend and backend technologies
 - 🔭 Building web applications and academic projects
 - 🚀 Passionate about clean code and problem-solving
 - 🎯 Always learning and exploring new technologies
@@ -31,19 +30,25 @@
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### 🛠️ Tools & Technologies
@@ -100,12 +105,12 @@ An application for managing students and academic information.
 </td>
 
 <td width="50%">
-<h3 align="center">🌐 Web Development</h3>
+<h3 align="center">🌐 Full Stack Applications</h3>
 <p align="center">
 Building modern web applications using REST APIs.
 </p>
 <p align="center">
-<b>Angular • Express • Node.js</b>
+<b>React • Next.js • NestJS • MongoDB</b>
 </p>
 <p align="center">
 <a href="https://github.com/med573">View Projects →</a>
